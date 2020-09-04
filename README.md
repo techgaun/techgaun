@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=techgaun&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&cache_seconds=1800&theme=dracula)
+
 <!--
 **techgaun/techgaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
