@@ -1,4 +1,4 @@
-### Hello Fellow Earthling 👋
+### Hello fellow earthling (or fellow dweller of this unbelievable multiverse; I know we're not the only one) 👋
 
 My name is Samar Acharya and I come from a very special country, [Nepal](https://en.wikipedia.org/wiki/Nepal). I am currently living in United States. I come from a then remote village & I started using computers when I was 17 and have always been in love with what I can make it do by feeding 1s and 0s.
 
