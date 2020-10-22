@@ -34,8 +34,22 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
 ![GCP](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a) 
 
-#### &#x1f4c8; Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=techgaun&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&cache_seconds=1800&theme=dracula)
+#### &#x1f4c8; Github Stats
+
+<a href="https://github.com/techgaun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgaun&hide=c,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/techgaun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techgaun&show_icons=true&cache_seconds=1800&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Techgaun's GitHub Stats" />
+</a>
+
+<a href="https://github.com/techgaun/github-dorks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=github-dorks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/techgaun/active-forks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=active-forks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=techgaun.github)
 
