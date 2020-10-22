@@ -50,6 +50,14 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=active-forks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;
 
+#### &#128155; Interests
+
+[&#9917;](https://en.wikipedia.org/wiki/Association_football)&emsp;
+[&#127955;](https://en.wikipedia.org/wiki/Table_tennis)&emsp;
+[&#129337;](https://en.wikipedia.org/wiki/Juggling)&emsp;
+[&#127909;](https://en.wikipedia.org/wiki/Documentary_film)&emsp;
+[&#127918;](https://www.ea.com/games/fifa/fifa-21/features)&emsp;
+[&#127928;](https://en.wikipedia.org/wiki/Guitar)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=techgaun.github)
 
