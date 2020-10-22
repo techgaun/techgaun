@@ -33,6 +33,10 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
 ![GCP](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a) 
+![Travic](https://img.shields.io/badge/DevOps-Travis-informational?style=flat&logo=travis&logoColor=white&color=2bbc8a) 
+![Concourse](https://img.shields.io/badge/DevOps-Concourse-informational?style=flat&logo=concourse&logoColor=white&color=2bbc8a) 
+![Bitrise](https://img.shields.io/badge/DevOps-Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=2bbc8a) 
+![CircleCI](https://img.shields.io/badge/DevOps-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a) 
 
 #### &#x1f4c8; Github Stats
 
