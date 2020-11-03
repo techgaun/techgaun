@@ -58,7 +58,7 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
 
 [&#9917;](https://en.wikipedia.org/wiki/Association_football)&emsp; I love playing soccer more than watching but I do both  
 [&#127955;](https://en.wikipedia.org/wiki/Table_tennis)&emsp; I do not get to play as much but I played table tennis a lot as a kid  
-[&#129337;](https://en.wikipedia.org/wiki/Juggling)&emsp; The best I could do ever was 4 balls  
+[&#129337;](https://en.wikipedia.org/wiki/Juggling)&emsp; The best I could ever do was 4 balls  
 [&#127909;](https://en.wikipedia.org/wiki/Documentary_film)&emsp; I love watching documentaries; oh and also thrillers and horrors  
 [&#127918;](https://www.ea.com/games/fifa/fifa-21/features)&emsp; I do not play a lot of video games anymore but Fifa by EA sports is something I buy every year  
 [&#127928;](https://en.wikipedia.org/wiki/Guitar)&emsp; I have learning guitar in my free time; its not been easy due to lack of time but I've been pursuing hard on this recently  
