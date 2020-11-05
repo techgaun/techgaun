@@ -1,6 +1,6 @@
-### Hello fellow earthling (or fellow dweller of this unbelievable multiverse; I know we're not the only one) 👋
+### Hi 👋
 
-My name is Samar Acharya and I come from a very special country, [Nepal](https://en.wikipedia.org/wiki/Nepal). I am currently living in United States. I come from a then remote village & I started using computers when I was 17 and have always been in love with what I can make it do by feeding 1s and 0s.
+My name is Samar Acharya and I come from a very special country, [Nepal](https://en.wikipedia.org/wiki/Nepal). I am currently living in United States. I come from a then remote village & I started using computers when I was 17 and since then have always been in love with what I can make it do by feeding 1s and 0s.
 
 #### &#127760; Social
 
@@ -20,6 +20,7 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
 - [Awesome Electronics for DIY People](https://github.com/techgaun/awesome-electronics)
 - [Awesome Readings](https://github.com/techgaun/awesome-readings)
 - [Docker Dive](https://github.com/techgaun/docker-dive)
+- [Concourse Cheatsheet](https://github.com/techgaun/concourse-cheatsheet)
 
 #### &#128295; Technologies & Tools
 
