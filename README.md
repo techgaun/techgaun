@@ -2,6 +2,24 @@
 
 My name is Samar Acharya and I come from a very special country, [Nepal](https://en.wikipedia.org/wiki/Nepal). I am currently living in United States. I come from a then remote village & I started using computers when I was 17 and since then have always been in love with what I can make it do by feeding 1s and 0s.
 
+<details>
+  <summary>Click to learn more about me!</summary>
+  
+  I write technical debts in the form of code to solve business problems. Any lines of code we write are technical debts no matter what; its all about managing the debts to successfully engineer the solution for the business.
+
+I am a software architect, programmer and tech leader with more than a decade of experience working as a thought leader and architect in teams and companies of all sizes, from 6-person startup to bigger companies with hundreds of engineers. I used computer for the first time at the age of 17-18 and was naturally drawn to it as it was a new thing to me and have invested my time into learning more about it. Over the course of my professional career, I have also provided consulting, architecture reviews and guidelines to startups across the globe. I am passionate about architecture having vast experience with service-oriented architectures, domain-driven design and microservices. I am also passionate about distributed systems, language design, operating systems and software/web security and have used my experience and passions in appropriate places on many of these topics at the companies I have been with.
+
+Currently, I work as lead architect for Zego, one of the subsidiaries of Global Payments, one of the S&P 500 companies. My recent startup experience as one of the founding engineer was with Zego, a techstars accelerator participant in 2017, where we built a resident experience platform for multi-family that offered and I led the technology decisions and engineering and helped with the acquisition of the company in 2019 by PayLease, a payment company headquartered in San Diego. PayLease eventually rebranded itself as "Zego" and got acquired by Global Payments in early 2021. With Zego, I currently work with VP of engineering, directors, anchors and engineers across all the squads and tribes as well as Product team to design, review and implement system architectures, develop and implement technology roadmaps, review & participate technology in M&A efforts, champion in collaboration with other teams data architecture, CI/CD, security, asynchronous even-drive architectures, etc. and peer review changes across the board for various teams.
+
+I am also a huge believer in open-source ecosystem, always looking to contribute in any capability. I myself built and maintain few libraries and tools and are available on my github at https://github.com/techgaun.
+  
+I firmly believe that DevOps culture is a must for success of any team and engineering organization regardless of size (1-N where N is any natural number) and it only becomes more and more crucial as the team size and number of systems interacting increases (as in microservices) and have helped various companies during my career embrace these ideas.
+
+Independent decision-making, trust, open information, curiosity, selflessness and courage are some of the elements I really value in individuals, teams and companies and believe that these traits can be miracles for individual and teams for career development and growth.
+
+If you think I could be helpful in any ways such as consulting, adviser, leader or even anything in general, feel free to connect and message me.
+</details>
+
 #### &#127760; Social
 
 [![Resume](https://img.shields.io/badge/resume-techgaun-blue)](https://techgaun.github.io/resume/)
