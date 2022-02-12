@@ -5,7 +5,7 @@ My name is Samar Acharya and I come from a very special country, [Nepal](https:/
 <details>
   <summary>Click to learn more about me!</summary>
   
-  I write technical debts in the form of code to solve business problems. Any lines of code we write are technical debts no matter what; its all about managing the debts to successfully engineer the solution for the business.
+  I write technical debts (well any of us who have built softwares have written _mostly_ technical debt :)) in the form of code to solve business problems. Any lines of code we write are technical debts no matter what; its all about managing the debts to successfully engineer the solution for the business.
 
 I am a software architect, programmer and tech leader with more than a decade of experience working as a thought leader and architect in teams and companies of all sizes, from 6-person startup to bigger companies with hundreds of engineers. I used computer for the first time at the age of 17-18 and was naturally drawn to it as it was a new thing to me and have invested my time into learning more about it. Over the course of my professional career, I have also provided consulting, architecture reviews and guidelines to startups across the globe. I am passionate about architecture having vast experience with service-oriented architectures, domain-driven design and microservices. I am also passionate about distributed systems, language design, operating systems and software/web security and have used my experience and passions in appropriate places on many of these topics at the companies I have been with.
 
