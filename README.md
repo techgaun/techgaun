@@ -86,12 +86,13 @@ If you think I could be helpful in any ways such as consulting, adviser, leader 
 
 #### &#128155; Interests
 
-[&#9917;](https://en.wikipedia.org/wiki/Association_football)&emsp; I love playing soccer more than watching but I do both  
+[&#9917;](https://en.wikipedia.org/wiki/Association_football)&emsp; I love to play and watch football (soccer)  
 [&#127955;](https://en.wikipedia.org/wiki/Table_tennis)&emsp; I do not get to play as much but I played table tennis a lot as a kid  
 [&#129337;](https://en.wikipedia.org/wiki/Juggling)&emsp; The best I could ever do was 4 balls  
-[&#127909;](https://en.wikipedia.org/wiki/Documentary_film)&emsp; I love watching documentaries; oh and also thrillers and horrors  
+[&#127909;](https://en.wikipedia.org/wiki/Documentary_film)&emsp; I love watching documentaries, thrillers and horrors  
 [&#127918;](https://www.ea.com/games/fifa/fifa-21/features)&emsp; I do not play a lot of video games anymore but Fifa by EA sports is something I buy every year  
 [&#127928;](https://en.wikipedia.org/wiki/Guitar)&emsp; I have been learning guitar in my free time (~1-2hours/week in best weeks); its not been easy due to lack of time but I've been pursuing hard on this recently  
 [&#129666;](https://en.wikipedia.org/wiki/Parachuting)&emsp; I did [tandem skydive](https://www.youtube.com/watch?v=IP17-KGqjgI) in 2020 and want to pursue solo skydiving as hobby. Someday I will learn to fly :)  
+[&#127922;](https://en.wikipedia.org/wiki/Board_game)&emsp; I play a lot of board games, primarily Euros. Spirit Island (two-handed) is my current favorite  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=techgaun.github)
